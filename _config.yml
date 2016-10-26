@@ -1,4 +1,3 @@
-layout_spectrum: 0.7386896361131221
 typography_spectrum: 0.49108941573649645
 color:
   brandStrength: 0.5354988966137171
@@ -11,4 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+github: true
+layout_spectrum: 0.7386896361131221
 name: 'art, design, everything'
+content: []
